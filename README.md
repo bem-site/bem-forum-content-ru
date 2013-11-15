@@ -1,4 +1,4 @@
-bem-tools-talk
+BEM Talks
 ==============
 
-Repo to discuss everything about bem-tools
+Repo to discuss everything about BEM.
