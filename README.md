@@ -1,4 +1,4 @@
-BEM Talk
+BEM Forum
 ==============
 
-Repo to discuss everything about BEM.
+Repo to host Russian language content for [BEM Forum](http://ru.bem.info/forum/)
